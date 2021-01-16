@@ -1,5 +1,5 @@
 from sympy.interactive import printing
-printing.init_printing(use_latex=True)
+printing.init_printing(use_latex = True)
 from sympy import *
 import sympy as sp
 
